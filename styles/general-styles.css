@@ -12,6 +12,11 @@ h2 {
   color: #fd8f54e2;
 }
 
+p {
+  font-size: 32px;
+  
+}
+
 section {
   margin: 50px 0 120px;
 }
@@ -91,3 +96,9 @@ td, th {
 td {
   padding: 15px 30px;
 }
+
+ul {
+  padding: 0;
+  text-align: center;
+  list-style: none;
+  }
